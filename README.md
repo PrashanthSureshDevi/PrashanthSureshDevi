@@ -16,8 +16,6 @@
 <br/>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrashanthSureshDevi/YOUR_REPOSITORY/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
 </div>
 
 ## 🚀 About Me
