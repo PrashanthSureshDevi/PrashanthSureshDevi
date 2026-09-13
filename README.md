@@ -107,7 +107,8 @@ I'm developing skills across the full modern AI stack — **Python, Machine Lear
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashanthsureshdevi&show_icons=true&theme=dark&bg_color=030712&title_color=00f5ff&icon_color=7b5cff&text_color=c9e9f5&border_color=123245&hide_border=false&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashanthsureshdevi&show_icons=true&theme=dark" 
+     alt="GitHub Stats" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthsureshdevi&theme=dark&background=030712&stroke=123245&ring=00f5ff&fire=e8c66b&currStreakLabel=00f5ff&sideLabels=c9e9f5&dates=5f8fa3" alt="GitHub Streak" width="49%"/>
 
