@@ -142,7 +142,6 @@ I'm developing skills across the full modern AI stack — **Python, Machine Lear
 | 🌐 **Web Development** | `Building` |
 | 🧠 **DSA / LeetCode** | `In progress` |
 
-<sub>Placeholders — replace each row with a linked repository once a project is ready to showcase.</sub>
 
 <img src="./assets/profile-animation.svg" width="100%" alt="divider"/>
 
@@ -151,10 +150,8 @@ I'm developing skills across the full modern AI stack — **Python, Machine Lear
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-030712?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/prashanthsureshdevi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=7b5cff)](https://www.linkedin.com/in/your-linkedin-here)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-030712?style=for-the-badge&logo=leetcode&logoColor=e8c66b)](https://leetcode.com/your-leetcode-here)
-
-<sub>⚠️ LinkedIn and LeetCode links above are placeholders — replace <code>your-linkedin-here</code> and <code>your-leetcode-here</code> with your real usernames.</sub>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=7b5cff)](www.linkedin.com/in/prashanth-s-665268422)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-030712?style=for-the-badge&logo=leetcode&logoColor=e8c66b)](https://leetcode.com/u/prashanthaiml)
 
 </div>
 
