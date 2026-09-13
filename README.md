@@ -108,9 +108,11 @@ I'm developing skills across the full modern AI stack — **Python, Machine Lear
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=prashanthsureshdevi&show_icons=true&theme=dark&bg_color=030712&title_color=00f5ff&icon_color=7b5cff&text_color=c9e9f5&border_color=123245&hide_border=false&count_private=true" alt="GitHub Stats" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthsureshdevi&theme=dark&background=030712&stroke=123245&ring=00f5ff&fire=e8c66b&currStreakLabel=00f5ff&sideLabels=c9e9f5&dates=5f8fa3" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthsureshdevi&layout=compact&theme=dark&bg_color=030712&title_color=00f5ff&text_color=c9e9f5&border_color=123245&hide_border=false" alt="Top Languages" width="49%"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthsureshdevi&theme=react-dark&bg_color=030712&color=00f5ff&line=7b5cff&point=e8c66b&hide_border=true" alt="Activity Graph" width="49%"/>
 
 </div>
